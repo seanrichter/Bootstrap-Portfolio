@@ -120,6 +120,11 @@ body {
     line-height: 22px;
     border-bottom: 2px solid #eeeeee;
   }
+
+  .wrapper {
+      padding: 20Px;
+      height: auto;
+  }
   
   /* main */
   
